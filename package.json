@@ -1,0 +1,33 @@
+{
+  "name": "@julong/utils",
+  "version": "1.0.0",
+  "description": "utils",
+  "main": "lib/index.js",
+  "module": "es/index.js",
+  "scripts": {
+    "build": "node ./scripts/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/julong1988/utils.git"
+  },
+  "keywords": [
+    "string",
+    "match",
+    "array"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julong1988/utils/issues"
+  },
+  "homepage": "https://github.com/julong1988/utils#readme",
+  "devDependencies": {
+    "esbuild": "^0.11.19",
+    "execa": "^5.0.0",
+    "listr": "^0.14.3",
+    "typedoc": "^0.17.0-3",
+    "typescript": "^3.9.5"
+  },
+  "dependencies": {}
+}
