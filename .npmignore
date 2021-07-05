@@ -3,7 +3,5 @@ src
 _tmp
 srcipts
 typedoc.json
-.prettierrc
-.huskyrc.json
-.eslintrc.json
 scripts
+tsconfig.json
