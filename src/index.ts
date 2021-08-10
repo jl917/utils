@@ -3,6 +3,7 @@ import * as common from './common';
 import * as string from './string';
 import * as match from './match';
 import * as number from './number';
+import * as fn from './function';
 // browser
 import * as browser from './browser';
 // node
@@ -14,6 +15,7 @@ const index: Index = {
   number,
   common,
   array,
+  fn,
 }
 
 if (BROWSER) {
