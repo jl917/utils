@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/julong1988/utils/compare/v1.0.0...v1.1.0) (2021-08-10)
+
+
+### Features
+
+* **common:** compose, pipe 추가 ([e198740](https://github.com/julong1988/utils/commit/e198740e941ae915ebbd9eeff9a36ad7e5f40f7f))
+
 # 1.0.0 (2021-07-05)
 
 
