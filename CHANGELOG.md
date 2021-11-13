@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/jl917/utils/compare/v1.1.0...v1.1.1) (2021-11-13)
+
+
+### Bug Fixes
+
+* julong1988 => jl917 ([72ca706](https://github.com/jl917/utils/commit/72ca706c33e06413c867fac207f6346a030d36b2))
+
 # [1.1.0](https://github.com/jl917/utils/compare/v1.0.0...v1.1.0) (2021-08-10)
 
 
