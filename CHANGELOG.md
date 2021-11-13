@@ -1,18 +1,18 @@
-# [1.1.0](https://github.com/julong1988/utils/compare/v1.0.0...v1.1.0) (2021-08-10)
+# [1.1.0](https://github.com/jl917/utils/compare/v1.0.0...v1.1.0) (2021-08-10)
 
 
 ### Features
 
-* **common:** compose, pipe 추가 ([e198740](https://github.com/julong1988/utils/commit/e198740e941ae915ebbd9eeff9a36ad7e5f40f7f))
+* **common:** compose, pipe 추가 ([e198740](https://github.com/jl917/utils/commit/e198740e941ae915ebbd9eeff9a36ad7e5f40f7f))
 
 # 1.0.0 (2021-07-05)
 
 
 ### Bug Fixes
 
-* **common:** 1.0 ([6a475df](https://github.com/julong1988/utils/commit/6a475df38a61859e1bc12e26c1301f8046ed101b))
+* **common:** 1.0 ([6a475df](https://github.com/jl917/utils/commit/6a475df38a61859e1bc12e26c1301f8046ed101b))
 
 
 ### Features
 
-* **common:** 기본 셋팅 ([81e64ac](https://github.com/julong1988/utils/commit/81e64ac4728b3120e8e4d761855dac384bb64e59))
+* **common:** 기본 셋팅 ([81e64ac](https://github.com/jl917/utils/commit/81e64ac4728b3120e8e4d761855dac384bb64e59))
