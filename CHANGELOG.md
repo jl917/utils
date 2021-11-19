@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/jl917/utils/compare/v1.1.1...v1.1.2) (2021-11-19)
+
+
+### Bug Fixes
+
+* package 라이센스 수정 ISC => MIT ([3d1c3c6](https://github.com/jl917/utils/commit/3d1c3c6ce0de365df596cca40797b964f661b873))
+
 ## [1.1.1](https://github.com/jl917/utils/compare/v1.1.0...v1.1.1) (2021-11-13)
 
 
