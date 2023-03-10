@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/jl917/utils/compare/v1.1.2...v1.2.0) (2023-03-10)
+
+
+### Features
+
+* fileSave  추가 ([5c1638a](https://github.com/jl917/utils/commit/5c1638a99ea3fd0258a0fb7df1f6daf3b0180fbe))
+
 ## [1.1.2](https://github.com/jl917/utils/compare/v1.1.1...v1.1.2) (2021-11-19)
 
 
